@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cdias\\source\\repos\\TesteService\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\cdias\\Source\\Repos\\teste\\TesteService\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\cdias\\source\\repos\\TesteService\\Application\\Application.csproj",
+      "projectPath": "C:\\Users\\cdias\\Source\\Repos\\teste\\TesteService\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\cdias\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cdias\\source\\repos\\TesteService\\Application\\obj\\",
+      "outputPath": "C:\\Users\\cdias\\Source\\Repos\\teste\\TesteService\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

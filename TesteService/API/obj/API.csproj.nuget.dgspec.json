@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cdias\\source\\repos\\TesteService\\API\\API.csproj": {}
+    "C:\\Users\\cdias\\Source\\Repos\\teste\\TesteService\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cdias\\source\\repos\\TesteService\\API\\API.csproj": {
+    "C:\\Users\\cdias\\Source\\Repos\\teste\\TesteService\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cdias\\source\\repos\\TesteService\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\cdias\\Source\\Repos\\teste\\TesteService\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\cdias\\source\\repos\\TesteService\\API\\API.csproj",
+        "projectPath": "C:\\Users\\cdias\\Source\\Repos\\teste\\TesteService\\API\\API.csproj",
         "packagesPath": "C:\\Users\\cdias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cdias\\source\\repos\\TesteService\\API\\obj\\",
+        "outputPath": "C:\\Users\\cdias\\Source\\Repos\\teste\\TesteService\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
